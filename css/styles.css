@@ -1,0 +1,32 @@
+table {
+
+  border-style: none;
+  width: 40%;
+}
+
+body {
+
+  margin: 40px;
+  background-color: rgb(250,250,250);
+  max-width: red;
+  line-height: 1.6;
+  font-size: 18px;
+  color: #444;
+  padding: 0 10px;
+}
+
+h1, h2, h3 {
+  line-height: 1.2;
+  }
+
+p.dots {
+  text-align: justify;
+  vertical-align: middle
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 3%;
+text-align: center;
+
+}
