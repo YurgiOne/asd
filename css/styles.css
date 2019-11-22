@@ -1,11 +1,14 @@
-body {
-  text-align: center;
-  font-family: 'Courier New', Courier, monospace;
-  margin: 0;
-  background-color: rgb(250, 250, 250);
-  line-height: 1.6;
-  font-size: 100%;
 
+.smallImage{
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+
+}
+
+body {
+  
+  background-color: rgb(250, 250, 250);
 }
 
 h1,
@@ -15,51 +18,4 @@ h3 {
   color: #444;
   margin: 0 auto 0 auto;
   font-size: 5.265 rem;
-}
-
-p.dots {
-  text-align: justify;
-  vertical-align: middle;
-  border-style: none;
-  border-top-style: dotted;
-  border-color: #cccccc;
-  border-width: 5px;
-  width: 3%;
-  text-align: center;
-}
-
-.topContainer {
-
-  border-style: dashed;
-  border-width: 1px;
-}
-
-
-.skills {
-  width: 70%;
-  margin: 0 auto;
-}
-
-.skillText {
-  text-align: left;
-  margin: 20px;
-}
-
-
-
-.ballImage {
-  float: left;
-  width: 100px;
-  margin-right: 10px;
-}
-
-.skill-row {
-  text-align: left;
-}
-
-.bottomContainer {
-  background-color: rgb(240, 240, 240);
-  border-radius: 3%;
-  padding: 50px;
-
 }
